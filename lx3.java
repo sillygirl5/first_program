@@ -9,7 +9,7 @@ public class lx3 {
             String times=scanner1.nextLine();
             System.out.println();
             String[] timesArray=times.split(" ");
-            System.out.println(luckTime(timesArray));
+            System.out.println(luckTime(timesArray));//fffff
         }
         //计算幸运时刻函数
         public static int luckTime(String[] timesArray){
